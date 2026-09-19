@@ -1,0 +1,30 @@
+omnigent/onboarding/sandboxes/daytona.py
+  s_12919cf24f7cdf::t_738963eaab3a6d 380-395,416
+  s_12919cf24f7cdf::t_d73443d495d3cf 409-415,417-418,459
+tests/onboarding/sandboxes/test_daytona.py
+  s_12919cf24f7cdf::t_c9f58f525207e1 54-55
+  s_12919cf24f7cdf::t_d73443d495d3cf 221,223,232-233,237,720,734,743-744,748-749,753,762,765,768-771
+deploy/daytona/README.md
+  s_12919cf24f7cdf::t_d73443d495d3cf 140-142
+  s_12919cf24f7cdf::t_6724bf96f6ab5e 11
+tests/e2e/test_daytona_resume_gate.py
+  s_12919cf24f7cdf::t_69a497a461d48a 1-2,5-18,20-27,35-38
+  s_12919cf24f7cdf::t_6a76d8a997ff49 3,19,28-34
+  s_12919cf24f7cdf::t_bd01b74964245a 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "6c8acafcbf98ccb193b0249c405a8146c23e2fc5",
+  "prompts": {},
+  "sessions": {
+    "s_12919cf24f7cdf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0b715-c8be-71e1-a656-54a78110c6ce",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
